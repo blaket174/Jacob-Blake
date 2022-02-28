@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Because You've Made A Difference
 
 You can use the [editor on GitHub](https://github.com/blaket174/jacob-blake/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
