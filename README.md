@@ -1,39 +1,13 @@
 ## Because You've Made A Difference
 
-You can use the [editor on GitHub](https://github.com/blaket174/jacob-blake/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+//You can use the [editor on GitHub](https://github.com/blaket174/jacob-blake/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+//Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
 ![Snapchat-1759353550](https://user-images.githubusercontent.com/100542162/155907653-97b3cb04-b1d4-432c-9ba3-3e9c75eefe53.jpg)
 
+![Snapchat-1444765941](https://user-images.githubusercontent.com/100542162/155907741-11fb3768-d260-4e2d-81bd-d54107f07e6b.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Snapchat-842213189](https://user-images.githubusercontent.com/100542162/155907771-e7fbe56e-9199-4d34-ab48-18da08ab5304.jpg)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blaket174/jacob-blake/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
