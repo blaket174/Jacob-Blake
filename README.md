@@ -5,6 +5,8 @@ You can use the [editor on GitHub](https://github.com/blaket174/jacob-blake/edit
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+![Snapchat-1759353550](https://user-images.githubusercontent.com/100542162/155907653-97b3cb04-b1d4-432c-9ba3-3e9c75eefe53.jpg)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -14,7 +16,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-![Snapchat-1759353550](https://user-images.githubusercontent.com/100542162/155907525-22a3938b-c1b2-4e3e-8a35-ecc4ed2c7899.jpg)
 
 - Bulleted
 - List
