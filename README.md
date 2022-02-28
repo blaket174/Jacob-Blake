@@ -14,6 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+![Snapchat-1759353550](https://user-images.githubusercontent.com/100542162/155907525-22a3938b-c1b2-4e3e-8a35-ecc4ed2c7899.jpg)
 
 - Bulleted
 - List
